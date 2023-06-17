@@ -97,7 +97,13 @@ Now we will display the admin website with all its pages and a brief explanation
 This is the login page for the website, in this page the admin should enter his credentials then he
 will enter the home admin page, if the user checked the coach login box, then he will enter the
 coach home page.
+![2 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/47ea0c91-4aa9-4ff8-b6da-2eaab9783429)
+   This is the admin home page, you can see there is a list, that admin have access to them, we will explain more in the next page.
+   ![3 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/800b40e2-f20c-4274-b941-2b6c833ad071)
 
+   The first page of admin list that he could see the all food types added to the mobile app by the coach , he can switch to drink or meal using “table of: “ list .
+  ![4 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/387028f4-ad0b-4c3a-9ead-2f5d151f8b79)
+ 
 ## Demo Link
 -[admin web demo link](https://drive.google.com/file/d/1pF6P3yFbpWl9sFAHwQvrpRA7tFdVjMM9/view?usp=sharing)
 ## Authors
