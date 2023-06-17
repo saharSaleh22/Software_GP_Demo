@@ -103,7 +103,22 @@ coach home page.
 
    The first page of admin list that he could see the all food types added to the mobile app by the coach , he can switch to drink or meal using “table of: “ list .
   ![4 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/387028f4-ad0b-4c3a-9ead-2f5d151f8b79)
- 
+ The second page of admin list that he could see the all Exercises added to the mobile app by the coach, he can switch to other exercises group using “table of: “ list .
+ ![5 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/d980ec05-3bc9-412c-8cd1-192559b1e5e2)
+  The third page of admin list that he could see the all orders for foods from the app users and he can delete an order if he want.
+  ![6 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/f7222c37-d4b7-4374-a745-a1c2926544b2)
+In this page the admin can add a coach, and he can fill some data for him.
+Also, there is a page to sow all coach’s data, and he can delete any of them.
+![7 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/50f51021-b925-4858-9a15-7065e3272188)
+
+  If he checked the coach login check box, then he will enter this is coach home page. Which enables him to do a list of features as: add food (meal or drink), add exercises (depend on area of focus) And to show the tables for food or exercises and throw them he can delete a food or exercise if he wants.
+  ![8 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/87961468-a220-4aec-967f-414d305f9e63)
+In this page the coach can add a new meal or drink depends of what he selected from the list , he can add the food name , calories count , price , making time , ingredients, recipe , difficulty level an photo of the drink or meal .
+![9 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/879288b6-5b60-4103-80ed-e7af9d107f65)
+Here the coach can add a new exercise depends on the area of focus  list as  shown in the Figure  above. He will add exercise name, repeat count, a gif for the exercise and a video .
+![10 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/8814af4f-6514-4fa7-bbf6-e3919cd2994d)
+Here we chose another area of focus from the list and the page content will change as you can see in the figure above.
+
 ## Demo Link
 -[admin web demo link](https://drive.google.com/file/d/1pF6P3yFbpWl9sFAHwQvrpRA7tFdVjMM9/view?usp=sharing)
 ## Authors
