@@ -119,6 +119,10 @@ Here the coach can add a new exercise depends on the area of focus  list as  sho
 ![10 jpg](https://github.com/saharSaleh22/Software_GP_WEB_Demo/assets/78207579/8814af4f-6514-4fa7-bbf6-e3919cd2994d)
 Here we chose another area of focus from the list and the page content will change as you can see in the figure above.
 
+
+## technolgies used 
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+ 
 ## Demo Link
 -[admin web demo link](https://drive.google.com/file/d/1pF6P3yFbpWl9sFAHwQvrpRA7tFdVjMM9/view?usp=sharing)
 ## Authors
